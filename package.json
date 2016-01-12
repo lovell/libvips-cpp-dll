@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "author": "Lovell Fuller <npm@lovell.info>",
-  "description": "Builds a DLL containing vips8 C++ bindings using MSVC",
+  "description": "Builds the vips8 C++ bindings as a DLL using MSVC",
   "repository": {
     "type": "git",
     "url": "git://github.com/lovell/libvips-cpp-dll"
