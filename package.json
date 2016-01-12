@@ -1,0 +1,22 @@
+{
+  "name": "libvips-cpp-dll",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Lovell Fuller <npm@lovell.info>",
+  "description": "Builds a DLL containing vips8 C++ bindings using MSVC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lovell/libvips-cpp-dll"
+  },
+  "dependencies": {
+    "request": "^2.67.0",
+    "tar": "^2.2.1"
+  },
+  "license": "LGPL-3.0",
+  "config": {
+    "libvips": "8.2.0"
+  },
+  "engines": {
+    "node": ">=0.10"
+  }
+}

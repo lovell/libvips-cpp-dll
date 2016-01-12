@@ -1,0 +1,3 @@
+[submodule "libvips"]
+	path = libvips
+	url = https://github.com/jcupitt/libvips.git
