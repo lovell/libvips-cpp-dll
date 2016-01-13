@@ -1,3 +1,4 @@
 [submodule "libvips"]
 	path = libvips
-	url = https://github.com/jcupitt/libvips.git
+	url = https://github.com/lovell/libvips.git
+	branch = VError-portable-internals
